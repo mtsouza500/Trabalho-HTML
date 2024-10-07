@@ -82,3 +82,10 @@ p {
     margin-bottom: 10px;
     line-height: 1.6;
 }
+
+.contato{
+    background-color: #fff;
+    border: 5px solid ffd700;
+    padding: auto;
+    max-width: 100%;
+}
